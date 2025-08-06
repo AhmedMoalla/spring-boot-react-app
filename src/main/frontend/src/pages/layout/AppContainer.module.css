@@ -28,6 +28,6 @@
 }
 
 [data-mantine-color-scheme] .active {
-    background-color: var(--mantine-color-blue-filled);
+    background-color: var(--mantine-primary-color-filled);
     color: var(--mantine-color-white);
 }
